@@ -26,6 +26,7 @@ object-oriented programming to enable you to automate activities
 and solve problems using JavaScrip
 
 ## php
+In this module we learn about php which is a back end server side language and can enhance websites functionality and improve its security. 
 
 ## User Centric Web Development
 User Centric Front end Development
